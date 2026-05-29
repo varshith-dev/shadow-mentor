@@ -70,13 +70,6 @@ In the event of connection congestion, server maintenance, or hardware constrain
 
 ---
 
-## 🧬 Dopamine-Triggering Game Mechanics
-The platform keeps students motivated through responsive feedback systems:
-*   **⚡ Animated Confetti/Fireworks Canvas**: Completing chapters or generating roadmaps triggers custom particle emitters drifting gracefully using Compose DrawScopes.
-*   **🏆 Synapse Ignited Prompts**: High-contrast dialog cards reward users with titles like `UNSTOPPABLE! 🧠🔥` or `COGNITIVE LEAP! 🚀🌟`.
-*   **📈 EXP Accumulators**: Grants `+150 EXP` points instantly on achievements to reinforce learning habits.
-
----
 
 ## 🏁 Building and Running the App
 
