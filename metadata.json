@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Mentor",
+  "description": "Your Personal AI Mentor for Infinite Growth. Adapts to your learning style, tracks metrics, and generates project ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
